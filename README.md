@@ -15,7 +15,7 @@
 
 </p>
 
-#### NOTE: Have a look at the pdf sample outputs.
+#### NOTE: Have a look at the pdf for sample outputs.
 
 Feel free for quries and suggestion
 
